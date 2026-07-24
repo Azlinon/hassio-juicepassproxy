@@ -1,3 +1,8 @@
+## 0.5.1.16
+- Switch to a new branch of code from atc99, which claims support for auto-registering multiple EVSE instances from the same JBProxy
+- Change the default port to 8042, to match behavior of V2 JuiceBox 48 hardware.
+- Fork codebase
+
 ## 0.5.1.13
 - Bump base images to [2026.06.1](https://github.com/home-assistant/docker-base/releases/tag/2026.06.1)
 
